@@ -2,16 +2,20 @@
 
 ## Quick Start
 
->The main UI of Animation+ is a combination of the **timeline** and **action editor** with some Quality of Life improvements.
+>The main UI of Animation+ is a combination of the **timeline** and **action editor** with some **Quality-Of-Life** improvements.
+
 ![alt text](Control.gif)
 
 > You can easily select and even deselect an action, which normally isn't possible in Blender.
+
 ![alt text](Select.gif)
 
 > Easily create actions. Also a clear indication if an action will be deleted automatically(orphaned)
+
 ![alt text](Orpahn.gif)
 
 > Ability to remove or clear actions. Normally you could only clear actions in the action editor
+
 ![alt text](remclear3.gif)
 
 ### Global action offset
@@ -27,14 +31,17 @@
 > When importing an animation, it's possible that it may have an unwanted scale. To solve this we simply click the **Smart Apply Scale** button and this will fix the scale for the armature and the active action.
 
 > This is what normally happens when you try to apply scaling on an armature.
+
 ![alt text](BrokenScale.gif)
 
 > Here is the desired result with **Smart Apply Scale**
+
 ![alt text](FixedScale.gif)
 
 ### Automatic Timeline Range
 
 > By toggling the clock button on the actions. You can define the start and end range for an action.
+
 ![alt text](ActionScale.gif)
 
 
