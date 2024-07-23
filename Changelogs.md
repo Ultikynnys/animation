@@ -14,3 +14,6 @@
 >## 1.2.0 - Tools update
     * Smart Apply Scale button
     * action offset button
+
+>## 1.2.1 - 7/23/2024 HOTFIX
+    * backwards comaptiblity hotfix
