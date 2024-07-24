@@ -17,3 +17,7 @@
 
 >## 1.2.1 - 7/23/2024 HOTFIX
     * backwards comaptiblity hotfix
+
+>## 1.2.2 - 7/25/2024 HOTFIX
+    * Addon errors when using non default scenes
+
