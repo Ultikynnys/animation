@@ -21,3 +21,7 @@
 >## 1.2.2 - 7/25/2024 HOTFIX
     * Addon errors when using non default scenes
 
+>## 1.2.4 - 11/26/2024 HOTFIX
+    * Blender 4.3 icon fix
+    * Timeline has automatic range setup on init
+    
