@@ -25,3 +25,8 @@
     * Blender 4.3 icon fix
     * Timeline has automatic range setup on init
     
+>## 1.2.5 - 12/30/2024 HOTFIX
+    * Icon fix
+    * Auto range fix
+    * Global offset fix
+    
