@@ -30,3 +30,7 @@
     * Auto range fix
     * Global offset fix
     
+>## 1.2.6 - 1/3/2025 HOTFIX
+    * selection error fixes
+    * shape key support
+    
